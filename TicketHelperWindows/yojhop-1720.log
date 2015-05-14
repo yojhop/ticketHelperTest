@@ -1,0 +1,507 @@
+Starting connection without proxy.
+started at Apr 25, 2015 11:00:35 AM
+login sucessfully without proxy at Apr 25, 2015 11:00:36 AM
+Download full image code is correct as 28365
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"28365","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:36 AM, will readd
+org.apache.http.conn.EofSensorInputStream@5b7362f5
+retry buy good 1720 at Apr 25, 2015 11:00:37 AM
+Download full image code is correct as 38472
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"38472","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:37 AM, will readd
+org.apache.http.conn.EofSensorInputStream@12159864
+retry buy good 1720 at Apr 25, 2015 11:00:37 AM
+Download full image code is correct as 38759
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"38759","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:37 AM, will readd
+org.apache.http.conn.EofSensorInputStream@1a3d2ff1
+retry buy good 1720 at Apr 25, 2015 11:00:38 AM
+Download full image code is correct as 52461
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"52461","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:38 AM, will readd
+org.apache.http.conn.EofSensorInputStream@485b13dd
+retry buy good 1720 at Apr 25, 2015 11:00:39 AM
+Download full image code is correct as 91702
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"91702","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:39 AM, will readd
+org.apache.http.conn.EofSensorInputStream@19e7cb19
+retry buy good 1720 at Apr 25, 2015 11:00:39 AM
+Download full image code is correct as 59423
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"59423","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:39 AM, will readd
+org.apache.http.conn.EofSensorInputStream@3d29c838
+retry buy good 1720 at Apr 25, 2015 11:00:40 AM
+Download full image code is correct as 01846
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"01846","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:40 AM, will readd
+org.apache.http.conn.EofSensorInputStream@4fecf98f
+retry buy good 1720 at Apr 25, 2015 11:00:41 AM
+Download full image code is correct as 47901
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"47901","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:41 AM, will readd
+org.apache.http.conn.EofSensorInputStream@5cf61d6a
+retry buy good 1720 at Apr 25, 2015 11:00:41 AM
+Download full image code is correct as 45186
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"45186","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:41 AM, will readd
+org.apache.http.conn.EofSensorInputStream@41a7d388
+retry buy good 1720 at Apr 25, 2015 11:00:42 AM
+Download full image code is correct as 62910
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"62910","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:42 AM, will readd
+org.apache.http.conn.EofSensorInputStream@36a9a4
+retry buy good 1720 at Apr 25, 2015 11:00:43 AM
+Download full image code is correct as 34785
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"34785","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:43 AM, will readd
+org.apache.http.conn.EofSensorInputStream@53ddc692
+retry buy good 1720 at Apr 25, 2015 11:00:43 AM
+Download full image code is correct as 30425
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"30425","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:44 AM, will readd
+org.apache.http.conn.EofSensorInputStream@52d92404
+retry buy good 1720 at Apr 25, 2015 11:00:45 AM
+Download full image code is correct as 43628
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"43628","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:45 AM, will readd
+org.apache.http.conn.EofSensorInputStream@1723ade0
+retry buy good 1720 at Apr 25, 2015 11:00:45 AM
+Download full image code is correct as 86410
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"86410","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:45 AM, will readd
+org.apache.http.conn.EofSensorInputStream@55a2a0d8
+retry buy good 1720 at Apr 25, 2015 11:00:46 AM
+Download full image code is correct as 46758
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"46758","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:46 AM, will readd
+org.apache.http.conn.EofSensorInputStream@21f182d2
+retry buy good 1720 at Apr 25, 2015 11:00:47 AM
+Download full image code is correct as 87492
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"87492","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:47 AM, will readd
+org.apache.http.conn.EofSensorInputStream@321eeee0
+retry buy good 1720 at Apr 25, 2015 11:00:47 AM
+Download full image code is correct as 87956
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"87956","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:47 AM, will readd
+org.apache.http.conn.EofSensorInputStream@26d2f95b
+retry buy good 1720 at Apr 25, 2015 11:00:48 AM
+Download full image code is correct as 61804
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"61804","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:48 AM, will readd
+org.apache.http.conn.EofSensorInputStream@88f8391
+retry buy good 1720 at Apr 25, 2015 11:00:48 AM
+Download full image code is correct as 71584
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"71584","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:49 AM, will readd
+org.apache.http.conn.EofSensorInputStream@1aa1bfb
+retry buy good 1720 at Apr 25, 2015 11:00:49 AM
+Download full image code is correct as 05642
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"05642","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:49 AM, will readd
+org.apache.http.conn.EofSensorInputStream@3b815cce
+retry buy good 1720 at Apr 25, 2015 11:00:50 AM
+Download full image code is correct as 07493
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"07493","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:50 AM, will readd
+org.apache.http.conn.EofSensorInputStream@58276cfe
+retry buy good 1720 at Apr 25, 2015 11:00:50 AM
+Download full image code is correct as 98140
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"98140","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:51 AM, will readd
+org.apache.http.conn.EofSensorInputStream@3cc8996d
+retry buy good 1720 at Apr 25, 2015 11:00:51 AM
+Download full image code is correct as 28176
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"28176","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:51 AM, will readd
+org.apache.http.conn.EofSensorInputStream@12ad972d
+retry buy good 1720 at Apr 25, 2015 11:00:52 AM
+Download full image code is correct as 13465
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"13465","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:52 AM, will readd
+org.apache.http.conn.EofSensorInputStream@65470c7d
+retry buy good 1720 at Apr 25, 2015 11:00:52 AM
+Download full image code is correct as 64790
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"64790","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:53 AM, will readd
+org.apache.http.conn.EofSensorInputStream@59fac3a2
+retry buy good 1720 at Apr 25, 2015 11:00:53 AM
+Download full image code is correct as 39608
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"39608","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:53 AM, will readd
+org.apache.http.conn.EofSensorInputStream@6b8a24e9
+retry buy good 1720 at Apr 25, 2015 11:00:54 AM
+Download full image code is correct as 43750
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"43750","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:54 AM, will readd
+org.apache.http.conn.EofSensorInputStream@20d417bd
+retry buy good 1720 at Apr 25, 2015 11:00:54 AM
+Download full image code is correct as 40851
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"40851","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:54 AM, will readd
+org.apache.http.conn.EofSensorInputStream@60a556cf
+retry buy good 1720 at Apr 25, 2015 11:00:55 AM
+Download full image code is correct as 40895
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"40895","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:55 AM, will readd
+org.apache.http.conn.EofSensorInputStream@73729275
+retry buy good 1720 at Apr 25, 2015 11:00:56 AM
+Download full image code is correct as 37106
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"37106","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:56 AM, will readd
+org.apache.http.conn.EofSensorInputStream@4615d176
+retry buy good 1720 at Apr 25, 2015 11:00:56 AM
+Download full image code is correct as 40831
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"40831","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:56 AM, will readd
+org.apache.http.conn.EofSensorInputStream@1c06a62a
+retry buy good 1720 at Apr 25, 2015 11:00:57 AM
+Download full image code is correct as 67842
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"67842","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:57 AM, will readd
+org.apache.http.conn.EofSensorInputStream@69a97135
+retry buy good 1720 at Apr 25, 2015 11:00:58 AM
+Download full image code is correct as 86237
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"86237","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:58 AM, will readd
+org.apache.http.conn.EofSensorInputStream@77574df8
+retry buy good 1720 at Apr 25, 2015 11:00:58 AM
+Download full image code is correct as 95703
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"95703","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:58 AM, will readd
+org.apache.http.conn.EofSensorInputStream@71c5eff4
+retry buy good 1720 at Apr 25, 2015 11:00:59 AM
+Download full image code is correct as 04276
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"04276","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:00:59 AM, will readd
+org.apache.http.conn.EofSensorInputStream@21798b40
+retry buy good 1720 at Apr 25, 2015 11:01:00 AM
+Download full image code is correct as 31507
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"31507","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:00 AM, will readd
+org.apache.http.conn.EofSensorInputStream@55f23ce
+retry buy good 1720 at Apr 25, 2015 11:01:00 AM
+Download full image code is correct as 06375
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"06375","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:00 AM, will readd
+org.apache.http.conn.EofSensorInputStream@6ae1f1f1
+retry buy good 1720 at Apr 25, 2015 11:01:01 AM
+Download full image code is correct as 98125
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"98125","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:01 AM, will readd
+org.apache.http.conn.EofSensorInputStream@2403f3b1
+retry buy good 1720 at Apr 25, 2015 11:01:02 AM
+Download full image code is correct as 95713
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"95713","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:02 AM, will readd
+org.apache.http.conn.EofSensorInputStream@2655ecab
+retry buy good 1720 at Apr 25, 2015 11:01:02 AM
+Download full image code is correct as 58432
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"58432","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:02 AM, will readd
+org.apache.http.conn.EofSensorInputStream@439b38d7
+retry buy good 1720 at Apr 25, 2015 11:01:03 AM
+Download full image code is correct as 82196
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"82196","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:03 AM, will readd
+org.apache.http.conn.EofSensorInputStream@1df41e93
+retry buy good 1720 at Apr 25, 2015 11:01:04 AM
+Download full image code is correct as 85967
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"85967","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:04 AM, will readd
+org.apache.http.conn.EofSensorInputStream@5e310a07
+retry buy good 1720 at Apr 25, 2015 11:01:04 AM
+Download full image code is correct as 60842
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"60842","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:04 AM, will readd
+org.apache.http.conn.EofSensorInputStream@1830f455
+retry buy good 1720 at Apr 25, 2015 11:01:05 AM
+Download full image code is correct as 45687
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"45687","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:05 AM, will readd
+org.apache.http.conn.EofSensorInputStream@34efa795
+retry buy good 1720 at Apr 25, 2015 11:01:06 AM
+Download full image code is correct as 96542
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"96542","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:06 AM, will readd
+org.apache.http.conn.EofSensorInputStream@4f1e5ed9
+retry buy good 1720 at Apr 25, 2015 11:01:06 AM
+Download full image code is correct as 53798
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"53798","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:06 AM, will readd
+org.apache.http.conn.EofSensorInputStream@159a8bd1
+retry buy good 1720 at Apr 25, 2015 11:01:07 AM
+Download full image code is correct as 45306
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"45306","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:07 AM, will readd
+org.apache.http.conn.EofSensorInputStream@35f42649
+retry buy good 1720 at Apr 25, 2015 11:01:08 AM
+Download full image code is correct as 34769
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"34769","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:08 AM, will readd
+org.apache.http.conn.EofSensorInputStream@5b5b8966
+retry buy good 1720 at Apr 25, 2015 11:01:08 AM
+Download full image code is correct as 46173
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"46173","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:08 AM, will readd
+org.apache.http.conn.EofSensorInputStream@65536eb4
+retry buy good 1720 at Apr 25, 2015 11:01:09 AM
+Download full image code is correct as 38125
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"38125","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:09 AM, will readd
+org.apache.http.conn.EofSensorInputStream@7f82058b
+retry buy good 1720 at Apr 25, 2015 11:01:10 AM
+Download full image code is correct as 54096
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"54096","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:10 AM, will readd
+org.apache.http.conn.EofSensorInputStream@450f14ba
+retry buy good 1720 at Apr 25, 2015 11:01:10 AM
+Download full image code is correct as 10593
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"10593","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:10 AM, will readd
+org.apache.http.conn.EofSensorInputStream@682edfcb
+retry buy good 1720 at Apr 25, 2015 11:01:11 AM
+Download full image code is correct as 64317
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"64317","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:11 AM, will readd
+org.apache.http.conn.EofSensorInputStream@2f4f895c
+retry buy good 1720 at Apr 25, 2015 11:01:12 AM
+Download full image code is correct as 25943
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"25943","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:12 AM, will readd
+org.apache.http.conn.EofSensorInputStream@614d583a
+retry buy good 1720 at Apr 25, 2015 11:01:12 AM
+Download full image code is correct as 02674
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"02674","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:12 AM, will readd
+org.apache.http.conn.EofSensorInputStream@7b62c756
+retry buy good 1720 at Apr 25, 2015 11:01:13 AM
+Download full image code is correct as 20913
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"20913","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:13 AM, will readd
+org.apache.http.conn.EofSensorInputStream@7fc73be6
+retry buy good 1720 at Apr 25, 2015 11:01:14 AM
+Download full image code is correct as 54691
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"54691","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:14 AM, will readd
+org.apache.http.conn.EofSensorInputStream@2afd2c69
+retry buy good 1720 at Apr 25, 2015 11:01:14 AM
+Download full image code is correct as 70594
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"70594","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:14 AM, will readd
+org.apache.http.conn.EofSensorInputStream@6f731eba
+retry buy good 1720 at Apr 25, 2015 11:01:15 AM
+Download full image code is correct as 19843
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"19843","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:15 AM, will readd
+org.apache.http.conn.EofSensorInputStream@5702cbd3
+retry buy good 1720 at Apr 25, 2015 11:01:16 AM
+Download full image code is correct as 18359
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"18359","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:16 AM, will readd
+org.apache.http.conn.EofSensorInputStream@28827875
+retry buy good 1720 at Apr 25, 2015 11:01:16 AM
+Download full image code is correct as 78426
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"78426","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:16 AM, will readd
+org.apache.http.conn.EofSensorInputStream@29fc9a67
+retry buy good 1720 at Apr 25, 2015 11:01:17 AM
+Download full image code is correct as 50213
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"50213","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:17 AM, will readd
+org.apache.http.conn.EofSensorInputStream@24d4e1a
+retry buy good 1720 at Apr 25, 2015 11:01:18 AM
+Download full image code is correct as 59387
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"59387","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:18 AM, will readd
+org.apache.http.conn.EofSensorInputStream@6c30cd3
+retry buy good 1720 at Apr 25, 2015 11:01:18 AM
+Download full image code is correct as 41382
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"41382","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:18 AM, will readd
+org.apache.http.conn.EofSensorInputStream@58d872f5
+retry buy good 1720 at Apr 25, 2015 11:01:19 AM
+Download full image code is correct as 54970
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"54970","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:19 AM, will readd
+org.apache.http.conn.EofSensorInputStream@2d0e39e6
+retry buy good 1720 at Apr 25, 2015 11:01:20 AM
+Download full image code is correct as 86024
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"86024","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:20 AM, will readd
+org.apache.http.conn.EofSensorInputStream@1966092f
+retry buy good 1720 at Apr 25, 2015 11:01:20 AM
+Download full image code is correct as 73265
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"73265","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:20 AM, will readd
+org.apache.http.conn.EofSensorInputStream@2173b35c
+retry buy good 1720 at Apr 25, 2015 11:01:21 AM
+Download full image code is correct as 03251
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"03251","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:21 AM, will readd
+org.apache.http.conn.EofSensorInputStream@6903b425
+retry buy good 1720 at Apr 25, 2015 11:01:22 AM
+Download full image code is correct as 09834
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"09834","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:22 AM, will readd
+org.apache.http.conn.EofSensorInputStream@3f375021
+retry buy good 1720 at Apr 25, 2015 11:01:22 AM
+Download full image code is correct as 12953
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"12953","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:22 AM, will readd
+org.apache.http.conn.EofSensorInputStream@59779dfb
+retry buy good 1720 at Apr 25, 2015 11:01:23 AM
+Download full image code is correct as 46135
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"46135","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:23 AM, will readd
+org.apache.http.conn.EofSensorInputStream@3e643af4
+retry buy good 1720 at Apr 25, 2015 11:01:23 AM
+Download full image code is correct as 05264
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"05264","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:24 AM, will readd
+org.apache.http.conn.EofSensorInputStream@751a7a64
+retry buy good 1720 at Apr 25, 2015 11:01:24 AM
+Download full image code is correct as 13670
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"13670","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:24 AM, will readd
+org.apache.http.conn.EofSensorInputStream@7f02bb29
+retry buy good 1720 at Apr 25, 2015 11:01:25 AM
+Download full image code is correct as 02815
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"02815","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:25 AM, will readd
+org.apache.http.conn.EofSensorInputStream@4b9a6fa1
+retry buy good 1720 at Apr 25, 2015 11:01:25 AM
+Download full image code is correct as 53647
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"53647","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:26 AM, will readd
+org.apache.http.conn.EofSensorInputStream@ad58deb
+retry buy good 1720 at Apr 25, 2015 11:01:26 AM
+Download full image code is correct as 68205
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"68205","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:26 AM, will readd
+org.apache.http.conn.EofSensorInputStream@31068b41
+retry buy good 1720 at Apr 25, 2015 11:01:27 AM
+Download full image code is correct as 84607
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"84607","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:27 AM, will readd
+org.apache.http.conn.EofSensorInputStream@2320ec02
+retry buy good 1720 at Apr 25, 2015 11:01:28 AM
+Download full image code is correct as 29130
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"29130","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:28 AM, will readd
+org.apache.http.conn.EofSensorInputStream@658f1e0d
+retry buy good 1720 at Apr 25, 2015 11:01:28 AM
+Download full image code is correct as 74201
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"74201","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:28 AM, will readd
+org.apache.http.conn.EofSensorInputStream@5dc31eb3
+retry buy good 1720 at Apr 25, 2015 11:01:29 AM
+Download full image code is correct as 45037
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"45037","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:29 AM, will readd
+org.apache.http.conn.EofSensorInputStream@62b56d87
+retry buy good 1720 at Apr 25, 2015 11:01:30 AM
+Download full image code is correct as 17045
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"17045","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:30 AM, will readd
+org.apache.http.conn.EofSensorInputStream@518309b0
+retry buy good 1720 at Apr 25, 2015 11:01:31 AM
+Download full image code is correct as 51930
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"51930","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:31 AM, will readd
+org.apache.http.conn.EofSensorInputStream@3bcf1e34
+retry buy good 1720 at Apr 25, 2015 11:01:31 AM
+Download full image code is correct as 47261
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"47261","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:31 AM, will readd
+org.apache.http.conn.EofSensorInputStream@fc61093
+retry buy good 1720 at Apr 25, 2015 11:01:32 AM
+Download full image code is correct as 46957
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"46957","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:32 AM, will readd
+org.apache.http.conn.EofSensorInputStream@202f1221
+retry buy good 1720 at Apr 25, 2015 11:01:33 AM
+Download full image code is correct as 90456
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"90456","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:33 AM, will readd
+org.apache.http.conn.EofSensorInputStream@57cd3447
+retry buy good 1720 at Apr 25, 2015 11:01:33 AM
+Download full image code is correct as 16802
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"16802","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:33 AM, will readd
+org.apache.http.conn.EofSensorInputStream@5bbe2ed3
+retry buy good 1720 at Apr 25, 2015 11:01:34 AM
+Download full image code is correct as 37059
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"37059","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:34 AM, will readd
+org.apache.http.conn.EofSensorInputStream@79ed7c11
+retry buy good 1720 at Apr 25, 2015 11:01:35 AM
+Download full image code is correct as 13546
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"13546","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:35 AM, will readd
+org.apache.http.conn.EofSensorInputStream@243a3a1e
+retry buy good 1720 at Apr 25, 2015 11:01:35 AM
+Download full image code is correct as 71806
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"71806","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:35 AM, will readd
+org.apache.http.conn.EofSensorInputStream@593680e1
+retry buy good 1720 at Apr 25, 2015 11:01:36 AM
+Download full image code is correct as 21685
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"21685","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:36 AM, will readd
+org.apache.http.conn.EofSensorInputStream@406f8c58
+retry buy good 1720 at Apr 25, 2015 11:01:37 AM
+Download full image code is correct as 62517
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"62517","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:37 AM, will readd
+org.apache.http.conn.EofSensorInputStream@4129a635
+retry buy good 1720 at Apr 25, 2015 11:01:37 AM
+Download full image code is correct as 73948
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"73948","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:37 AM, will readd
+org.apache.http.conn.EofSensorInputStream@5839cb0
+retry buy good 1720 at Apr 25, 2015 11:01:38 AM
+Download full image code is correct as 35204
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"35204","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:38 AM, will readd
+org.apache.http.conn.EofSensorInputStream@10e3c6a3
+retry buy good 1720 at Apr 25, 2015 11:01:38 AM
+Download full image code is correct as 28695
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"28695","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:39 AM, will readd
+org.apache.http.conn.EofSensorInputStream@7d24dcd7
+retry buy good 1720 at Apr 25, 2015 11:01:39 AM
+Download full image code is correct as 21659
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"21659","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:39 AM, will readd
+org.apache.http.conn.EofSensorInputStream@2fc86961
+retry buy good 1720 at Apr 25, 2015 11:01:40 AM
+Download full image code is correct as 60537
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"60537","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:40 AM, will readd
+org.apache.http.conn.EofSensorInputStream@52cee11e
+retry buy good 1720 at Apr 25, 2015 11:01:40 AM
+Download full image code is correct as 23679
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"23679","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:41 AM, will readd
+org.apache.http.conn.EofSensorInputStream@3620f49e
+retry buy good 1720 at Apr 25, 2015 11:01:41 AM
+Download full image code is correct as 72048
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"72048","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:41 AM, will readd
+org.apache.http.conn.EofSensorInputStream@3860910f
+retry buy good 1720 at Apr 25, 2015 11:01:42 AM
+Download full image code is correct as 97014
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"97014","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:42 AM, will readd
+org.apache.http.conn.EofSensorInputStream@519edb19
+retry buy good 1720 at Apr 25, 2015 11:01:42 AM
+Download full image code is correct as 45671
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"45671","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:43 AM, will readd
+org.apache.http.conn.EofSensorInputStream@4e5a309d
+retry buy good 1720 at Apr 25, 2015 11:01:43 AM
+Download full image code is correct as 10394
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1720","captcha":"10394","number":"3","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1720,3) failed at Apr 25, 2015 11:01:43 AM, will readd
+org.apache.http.conn.EofSensorInputStream@51c7747e

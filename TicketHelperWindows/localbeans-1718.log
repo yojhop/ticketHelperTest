@@ -1,0 +1,48 @@
+started at Apr 25, 2015 11:00:35 AM
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:117)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:177)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:304)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:611)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:446)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at BuyTickets.login(BuyTickets.java:382)
+	at BuyTickets.run(BuyTickets.java:114)
+Current proxy 218.204.140.104 is not working, will use another proxy
+Trying to use 42.121.105.155
+login sucessfully with proxy 42.121.105.155 at Apr 25, 2015 11:01:07 AM
+Download full image code is correct as 09632
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1718","captcha":"09632","number":"1","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1718,1) failed at Apr 25, 2015 11:01:11 AM, will readd
+org.apache.http.conn.EofSensorInputStream@356525f7
+retry buy good 1718 at Apr 25, 2015 11:01:12 AM
+Download full image code is correct as 69354
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1718","captcha":"69354","number":"1","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1718,1) failed at Apr 25, 2015 11:01:20 AM, will readd
+org.apache.http.conn.EofSensorInputStream@33046e2c
+retry buy good 1718 at Apr 25, 2015 11:01:21 AM
+Download full image code is correct as 63502
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1718","captcha":"63502","number":"1","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1718,1) failed at Apr 25, 2015 11:01:26 AM, will readd
+org.apache.http.conn.EofSensorInputStream@24a0718c
+retry buy good 1718 at Apr 25, 2015 11:01:27 AM
+Download full image code is correct as 20843
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1718","captcha":"20843","number":"1","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1718,1) failed at Apr 25, 2015 11:01:32 AM, will readd
+org.apache.http.conn.EofSensorInputStream@79b55ca5
+retry buy good 1718 at Apr 25, 2015 11:01:33 AM
+Download full image code is correct as 98453
+{"error":3,"message":["\u5bf9\u4e0d\u8d77\uff0c\u8be5\u5546\u54c1\u5df2\u7ecf\u4e0b\u67b6\u3002"],"content":"","goods_id":"1718","captcha":"98453","number":"1","donation_number":null,"product_spec":"","confirm_type":"3"}
+addToCart(1718,1) failed at Apr 25, 2015 11:01:42 AM, will readd
+org.apache.http.conn.EofSensorInputStream@3b5ff43e
+retry buy good 1718 at Apr 25, 2015 11:01:42 AM

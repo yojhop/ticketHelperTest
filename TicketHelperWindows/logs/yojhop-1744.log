@@ -1,0 +1,35 @@
+started at May 1, 2015 10:29:39 AM
+login sucessfully with proxy 221.181.6.52 at May 1, 2015 10:29:40 AM
+cannot download image
+Current proxy 221.181.6.52 is not working, will try to use another proxy
+Trying to use new proxy 210.14.143.132
+reseting client
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:69)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:117)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:177)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:304)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:611)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:446)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106)
+	at BuyTickets.login(BuyTickets.java:429)
+	at BuyTickets.resetClient(BuyTickets.java:137)
+	at BuyTickets.buyCurrentGood(BuyTickets.java:229)
+	at BuyTickets.run(BuyTickets.java:116)
+Current proxy 210.14.143.132 is not working, will try to use another proxy
+Trying to use new proxy 183.207.224.14
+login sucessfully with proxy 183.207.224.14 at May 1, 2015 10:30:01 AM
+retry buy good 1744 at May 1, 2015 10:30:02 AM
+Download full image code is correct as vkc42
+{"error":888,"message":"\u6ce8\u610f\uff1a\n\r\u6b64\u5546\u54c1\u4fc3\u9500\u671f\u95f4\u5c0f\u4e1d\u74dcVIP\u9650\u8d2d 3 \u4ef6\uff01\n\r\u60a8\u4e4b\u524d\u8ba2\u5355\u4e2d\u5df2\u7ecf\u5b58\u5728 3 \u4ef6\uff01\n\r\u60a8\u53ea\u80fd\u518d\u4e70 0 \u4ef6\uff01","content":"","goods_id":"1744","captcha":"vkc42","number":"1","donation_number":null}
+Already bought, will exit.
+Ticket bought sucessfully!

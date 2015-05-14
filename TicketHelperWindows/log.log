@@ -1,0 +1,46 @@
+0 [main] INFO MainClass  - Loading proxies started at Apr 21, 2015 7:50:20 PM
+9 [main] INFO MainClass  - Loading proxies ended at Apr 21, 2015 7:50:20 PM
+10398 [Thread-4] INFO org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://58.220.2.135:80->http://shop.snh48.com: The target server failed to respond
+10398 [Thread-4] INFO org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://58.220.2.135:80->http://shop.snh48.com
+0 [main] INFO MainClass  - Loading proxies started at Apr 21, 2015 7:55:33 PM
+10 [main] INFO MainClass  - Loading proxies ended at Apr 21, 2015 7:55:33 PM
+14196 [Thread-14] INFO org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://117.178.227.25:8123->http://shop.snh48.com: The target server failed to respond
+14196 [Thread-14] INFO org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://117.178.227.25:8123->http://shop.snh48.com
+0 [main] INFO MainClass  - Loading proxies started at Apr 21, 2015 7:57:43 PM
+10 [main] INFO MainClass  - Loading proxies ended at Apr 21, 2015 7:57:43 PM
+65527 [Thread-8] INFO org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://183.219.30.70:8123->http://shop.snh48.com: The target server failed to respond
+65527 [Thread-8] INFO org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://183.219.30.70:8123->http://shop.snh48.com
+132457 [Thread-10] INFO org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://117.165.28.19:8123->http://shop.snh48.com: The target server failed to respond
+132457 [Thread-10] INFO org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://117.165.28.19:8123->http://shop.snh48.com
+0 [main] INFO MainClass  - Loading proxies started at Apr 21, 2015 8:02:24 PM
+10 [main] INFO MainClass  - Loading proxies ended at Apr 21, 2015 8:02:24 PM
+0 [main] INFO MainClass  - Loading proxies started at Apr 21, 2015 8:05:13 PM
+10 [main] INFO MainClass  - Loading proxies ended at Apr 21, 2015 8:05:13 PM
+54326 [Thread-8] INFO org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://117.163.223.230:8123->http://shop.snh48.com: The target server failed to respond
+54326 [Thread-8] INFO org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://117.163.223.230:8123->http://shop.snh48.com
+747993 [Thread-0] INFO org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://shop.snh48.com: The target server failed to respond
+747993 [Thread-0] INFO org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://shop.snh48.com
+297683 [Thread-0] INFO org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://shop.snh48.com: The target server failed to respond
+297683 [Thread-0] INFO org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://shop.snh48.com
+0 [main] INFO MainClass  - Loading proxies started at Apr 21, 2015 8:15:54 PM
+17 [main] INFO MainClass  - Loading proxies ended at Apr 21, 2015 8:15:54 PM
+49108 [Thread-15] INFO org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://113.142.37.248:80->http://shop.snh48.com: The target server failed to respond
+49108 [Thread-15] INFO org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://113.142.37.248:80->http://shop.snh48.com
+1130048 [Thread-12] INFO org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://112.84.130.4:10000->http://shop.snh48.com: The target server failed to respond
+1130048 [Thread-12] INFO org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://112.84.130.4:10000->http://shop.snh48.com
+0 [main] INFO MainClass  - Loading proxies started at Apr 21, 2015 8:59:52 PM
+7 [main] INFO MainClass  - Loading proxies ended at Apr 21, 2015 8:59:52 PM
+0 [main] INFO MainClass  - Loading proxies started at Apr 21, 2015 9:04:54 PM
+6 [main] INFO MainClass  - Loading proxies ended at Apr 21, 2015 9:04:54 PM
+1 [main] INFO MainClass  - Loading proxies started at Apr 21, 2015 9:06:37 PM
+8 [main] INFO MainClass  - Loading proxies ended at Apr 21, 2015 9:06:37 PM
+0 [main] INFO MainClass  - Loading proxies started at Apr 21, 2015 9:08:21 PM
+7 [main] INFO MainClass  - Loading proxies ended at Apr 21, 2015 9:08:21 PM
+1 [main] INFO MainClass  - Loading proxies started at Apr 25, 2015 10:13:07 AM
+6 [main] INFO MainClass  - Loading proxies ended at Apr 25, 2015 10:13:07 AM
+0 [main] INFO MainClass  - Loading proxies started at Apr 25, 2015 11:00:35 AM
+7 [main] INFO MainClass  - Loading proxies ended at Apr 25, 2015 11:00:35 AM
+12982 [Thread-6] INFO org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://121.14.4.111:80->http://shop.snh48.com: The target server failed to respond
+12983 [Thread-6] INFO org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://121.14.4.111:80->http://shop.snh48.com
+53593 [Thread-6] INFO org.apache.http.impl.client.DefaultHttpClient  - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://121.14.4.111:80->http://shop.snh48.com: The target server failed to respond
+53593 [Thread-6] INFO org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://121.14.4.111:80->http://shop.snh48.com
